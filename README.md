@@ -1,7 +1,7 @@
 # 🌟 Kişisel Portfolyo Sitesi
 
 Bu proje, geliştirici olarak yeteneklerimi, projelerimi ve deneyimlerimi sergilemek amacıyla oluşturduğum **kişisel portfolyo web sitesidir**. Modern web teknolojileriyle geliştirilmiş, **responsive (mobil uyumlu)** ve **kullanıcı dostu** bir tasarıma sahiptir.
-![Portfolyo Ekran Görüntüsü](/images/kisisel-portfolyo.png)
+![Portfolyo Ekran Görüntüsü](/public/images/kisisel-portfolyo.png)
 
 ## ✨ Özellikler
 
