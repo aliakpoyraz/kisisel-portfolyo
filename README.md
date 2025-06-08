@@ -1,8 +1,5 @@
 # 🌟 Kişisel Portfolyo Sitesi
 
-[![Görüntüle](https://img.shields.io/badge/Siteyi%20Görüntüle-%F0%9F%91%80-blue)](https://aliakpoyraz.github.io/kisisel-portfolyo)
-[![Repo](https://img.shields.io/badge/Repoya%20Git-%F0%9F%93%81-blue)](https://github.com/aliakpoyraz/kisisel-portfolyo)
-
 Bu proje, geliştirici olarak yeteneklerimi, projelerimi ve deneyimlerimi sergilemek amacıyla oluşturduğum **kişisel portfolyo web sitesidir**. Modern web teknolojileriyle geliştirilmiş, **responsive (mobil uyumlu)** ve **kullanıcı dostu** bir tasarıma sahiptir.
 ![Portfolyo Ekran Görüntüsü](/images/kisisel-portfolyo.png)
 
